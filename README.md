@@ -1,6 +1,8 @@
 # reddit_comments_download
 Python code to download all public available archives of reddit comments from https://files.pushshift.io/reddit/comments/
 
+Code only tested with Python 3.8.2
+
 The Python code will do the following
 - Loop though a json list i created myself
 - check if the file exists 
