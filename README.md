@@ -11,3 +11,5 @@ The Python code will do the following
 To use, edit the variable `loc = 'F:\\LOCATION\\TO\\DOWNLOAD\\FILES\\TO\\'` to the location you want to download all the archives to including the double backslash at the end
 
 If you do not want all the archives then edit rc_filelist.json to only contain the archives to download
+
+After downloading, re-run just to make sure all files downloaded correctly and is complete
