@@ -4,7 +4,7 @@ from os import path
 from hashlib import sha256
 
 dl_url = 'https://files.pushshift.io/reddit/comments/'
-loc = '\\\\192.168.1.200\\dev\\RC_Data\\'
+loc = 'F:\\LOCATION\\TO\\DOWNLOAD\\FILES\\TO\\'
 available_files= []
 
 def check_file_hash(fhash, file):
